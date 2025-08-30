@@ -1,4 +1,6 @@
-![Deepfake Detection Banner]()
+<p align="center">
+  <img src="images/Black Gradient Technology YouTube Banner.png" alt="Deepfake Detection System Banner" width="100%">
+</p>
 
 # Deepfake Detection System – Deep Dect  
 
