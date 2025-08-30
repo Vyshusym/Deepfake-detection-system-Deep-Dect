@@ -62,7 +62,7 @@ Published in *International Journal of Innovative Research in Electrical, Electr
 
 2. **Frontend (Streamlit)**  
    - Image upload (JPG, PNG)  
-   - Preprocessing → Prediction → Confidence display  
+   - Preprocessing → Prediction → Result display  
 
 3. **Deployment (Hugging Face)**  
    - Model + UI packaged with requirements.txt  
