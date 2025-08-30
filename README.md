@@ -8,7 +8,7 @@
 
 A lightweight deepfake detection system for **static images**, built using **ResNet50** and deployed with a simple **Streamlit interface**.  
 This project demonstrates how deep learning can be applied to detect manipulated (fake) images and provides an accessible web-based tool for real-time usage.  
-
+[![Check Out Our Project]](https://huggingface.co/spaces/V90/Deep-Dect)
 ---
 
 ## 🔗 Publication  
@@ -23,7 +23,7 @@ Published in *International Journal of Innovative Research in Electrical, Electr
 - ✅ **Simple Web Interface** – Built with Streamlit, requires no local setup for end-users.  
 - ✅ **Fast Inference** – Provides predictions under 200ms on CPU.  
 - ✅ **Deployment Ready** – Hosted on Hugging Face Spaces for public access.  
-- ✅ **User Friendly** – Dark mode UI with clear results and confidence score.  
+- ✅ **User Friendly** – Dark mode UI with clear results.  
 
 ---
 
@@ -90,7 +90,7 @@ streamlit run app.py
 
 ### 4️⃣ Upload Image  
 - Upload a JPG/PNG file  
-- The system classifies it as **Real** or **Deepfake** with a confidence score  
+- The system classifies it as **Real** or **Deepfake**  
 
 ---
 
@@ -126,7 +126,9 @@ streamlit run app.py
 
 ## 📸 Screenshots  
 ### Upload Interface  
-![UI Example]()  
+<p align="center">
+  <img src="images/image.png" alt="Deepfake Detection System image" width="100%">
+</p>
 
 ### Prediction Output  
 - **Real Image → Classified as Real**  
@@ -144,8 +146,12 @@ streamlit run app.py
 ---
 
 ## 👨‍💻 Contributors  
-- **Your Name** – Developer, Researcher  
-- Department of CS & D, MUSE  
+- Vedhapriya pandurangan - Assistant professor, Guide
+- **Vyshali M** – Developer, Researcher
+- **Yashoda N** – Developer, Researcher
+- **V Lavanya** – Developer, Researcher
+- **Kusuma J M** –  Researcher   
+- Department of Computer Science and Design , University of Mysore.  
 
 ---
 
